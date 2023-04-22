@@ -1,5 +1,5 @@
 # Hospital-website-Sass-
-It is a hospital website created using html &amp; css (Sass)
+It is a Responsive hospital website created using html &amp; css (Sass)
 This website is created using html & css with css preprocessor Sass(Syntactically Awesome Stylesheet) and Scss(Sassy Stylesheet) as a beginners friendly Sass project.
 
 To run this project on your machine:
